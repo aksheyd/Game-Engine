@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -31,8 +31,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-04T03:04:51.626Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -42,7 +45,7 @@
               "RelativeDocumentMoniker": "Game-Engine.cpp",
               "ToolTip": "C:\\Users\\HP\\Documents\\Github\\Game-Engine\\Game-Engine.cpp",
               "RelativeToolTip": "Game-Engine.cpp",
-              "ViewState": "AgIAAIYAAAAAAAAAAADwv5oAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-04T02:40:15.768Z",
               "EditorCaption": ""
