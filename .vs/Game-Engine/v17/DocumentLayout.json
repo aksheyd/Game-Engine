@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Github\\Game-Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{575073ED-552F-48C7-A170-E757E463DA05}|Game-Engine.vcxproj|C:\\Users\\HP\\Documents\\Github\\Game-Engine\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{575073ED-552F-48C7-A170-E757E463DA05}|Game-Engine.vcxproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{575073ED-552F-48C7-A170-E757E463DA05}|Game-Engine.vcxproj|C:\\Users\\HP\\Documents\\Github\\Game-Engine\\Game-Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{575073ED-552F-48C7-A170-E757E463DA05}|Game-Engine.vcxproj|solutionrelative:Game-Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,7 +22,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "glad.c",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\Github\\Game-Engine\\glad.c",
               "RelativeDocumentMoniker": "glad.c",
@@ -41,25 +37,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Github\\Game-Engine\\.gitattributes",
-              "RelativeDocumentMoniker": ".gitattributes",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Github\\Game-Engine\\.gitattributes",
-              "RelativeToolTip": ".gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-04T03:23:45.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Game-Engine.cpp",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\Github\\Game-Engine\\Game-Engine.cpp",
               "RelativeDocumentMoniker": "Game-Engine.cpp",
               "ToolTip": "C:\\Users\\HP\\Documents\\Github\\Game-Engine\\Game-Engine.cpp",
               "RelativeToolTip": "Game-Engine.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv5UAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-04T02:40:15.768Z",
               "EditorCaption": ""
