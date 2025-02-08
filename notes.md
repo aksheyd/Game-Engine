@@ -20,6 +20,7 @@ Coordinate System:
 	- mapped over viewport by openGL called viewport transform
 
 - openGL is righthanded system (except for NDC) -> pos x is right, pos y is up and pos z is backwrds (RIGHT HAND RULE LMAO)
+
 Todo:
 - implement a texture class
 - implement a transformation / rotation / scale class
